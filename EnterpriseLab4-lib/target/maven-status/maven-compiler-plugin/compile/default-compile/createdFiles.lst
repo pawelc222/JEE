@@ -1,0 +1,14 @@
+pl\gda\pg\eti\kask\javaee\jsf\entities\Wieza.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Author.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Book.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\validators\InPast.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Zywiol.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Mag.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\ObjectFactory.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\validators\MagName.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Cover.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Library.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\package-info.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\validators\InPastValidator.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\validators\MagNameValidator.class
+pl\gda\pg\eti\kask\javaee\jsf\entities\Swiat.class

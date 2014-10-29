@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<swiat
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.eti.pg.gda.pl/kask/javaee/wieze"
+    xsi:schemaLocation="http://www.eti.pg.gda.pl/kask/javaee/wieze">
+      <wieza wysokosc="90" id="1">
+          <mag imie="Xenod" mana="20" zywiol="ogien" id="1"/>
+          <mag imie="Aldur" mana="50" zywiol="wiatr" id="2"/>
+      </wieza>
+      <wieza wysokosc="80" id="2">
+          <mag imie="Illen" mana="100" zywiol="ziemia" id="3"/>
+      </wieza>
+</swiat>

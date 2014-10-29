@@ -1,0 +1,12 @@
+pl\gda\pg\eti\kask\javaee\jsf\view\converters\AuthorConverter.class
+pl\gda\pg\eti\kask\javaee\jsf\view\ViewBook.class
+pl\gda\pg\eti\kask\javaee\jsf\view\ViewMag.class
+pl\gda\pg\eti\kask\javaee\jsf\view\EditMag.class
+pl\gda\pg\eti\kask\javaee\jsf\view\converters\MagConverter.class
+pl\gda\pg\eti\kask\javaee\jsf\view\validators\BookTitleValidator.class
+pl\gda\pg\eti\kask\javaee\jsf\view\EditWieza.class
+pl\gda\pg\eti\kask\javaee\jsf\view\EditBook.class
+pl\gda\pg\eti\kask\javaee\jsf\view\ListWieze.class
+pl\gda\pg\eti\kask\javaee\jsf\view\converters\WiezaConverter.class
+pl\gda\pg\eti\kask\javaee\jsf\view\ListBooks.class
+pl\gda\pg\eti\kask\javaee\jsf\view\ViewWieza.class
